@@ -1,6 +1,6 @@
-# React + Vite
+# Maker Meets Muse
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An online platform used by artisans to expand their craft and business by showcasing their work and taking up orders from different sort of customers.
 
 Currently, two official plugins are available:
 
